@@ -1,2 +1,14 @@
 # worldcup-wwwwin-resource
-HTML page archive and documentation
+
+页面文件管理仓库
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
